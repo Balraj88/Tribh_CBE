@@ -101,6 +101,7 @@
 		<members>NSC_CH_AfterSales</members>
 		<members>NSC_DE_AfterSales</members>
 		<members>NSC_UK_AfterSales</members>
+		<members>NSC_US_AfterSales</members>
 		<name>Role</name>
 	</types>
 	<version>49.0</version>
